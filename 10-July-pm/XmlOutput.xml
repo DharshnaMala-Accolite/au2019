@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<web-app>
+    <servlet>
+        <servlet-name>controlServlet</servlet-name>
+        <servlet-class>com.accolite.au.UseAnnot</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>controlServlet</servlet-name>
+        <url-pattern>*.html</url-pattern>
+    </servlet-mapping>
+</web-app>

@@ -1,0 +1,16 @@
+DATABASE ASSIGNMENT:
+
+1)Normalization with example
+
+2)Design a system to store all the data with respect to Cricket World cup which recently ended. Design should be scalable to store data for the world cup matches upcoming in the future. 
+
+1) Define all the entities. Design an ER diagram with it's cardinality ratio. Define all the attributes.
+2) Create the schema with all the constraints needed.
+3) Create sample data in all the tables. 
+4) Fetch the top 5 batsmen who scored the maximum runs.
+5) Fetch the top 5 bowlers who has taken the maximum wickets.
+6) Fetch the average score scored by each team considering the matches played. 
+7) Increase the scores of each batsmen in the team, which has the least average computed in Step 6, by 10 runs.
+
+Ensure that all the queries are ANSI compliant. Please share the script file with me in github which I can directly import and execute(should include the sample data created as well). I expect the script to run without any modifications.
+

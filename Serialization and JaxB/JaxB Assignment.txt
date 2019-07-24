@@ -1,0 +1,36 @@
+1) Serialization.
+Create a class Student extending a non serializable class Person. Person class have fields FirstName and LastName. Student class have studentId, standard, division, mark and Address as an separate object. Address have the fields street, city, state and zip. The classes and fields are described below.
+
+Person	[Is not serializable]
+FirstName
+LastName
+
+Student
+studentId
+standard
+division
+mark
+Address
+
+Address	
+street
+city
+state
+zip
+
+Serialize at least a list of 2 student objects along with FirstName and LastName and address to a file. Avoid serializing mark in the student object.
+Deserialize all the objects back from the file and display on console.
+
+2) XML Parsing
+Use JAXB to covert an Employee object to an XML and construct the same object from the XML. The classes and fields are described below.
+
+Employee
+Id
+FirstName
+LastName
+Address
+
+Address
+city
+state
+zip

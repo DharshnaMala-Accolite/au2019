@@ -1,0 +1,5 @@
+Exception Handling Assignment
+
+Q: Is there any way to "get around" the strict restrictions placed on methods by the throws clause?
+
+Q: Differences between exceptions, errors, and runtime exceptions.
